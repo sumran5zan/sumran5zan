@@ -14,12 +14,12 @@ I am a passionate Aerospace Engineering student at Wichita State University with
 
 ### 📚 Education
 
-- **Bachelor of Technology in Aeronautical Engineering**
-  - MLR Institute ofTechnology, Hyderabad, TS, India
-  - Graduated: 2019
 - **Master of Science in Aerospace Engineering**
   - Wichita State University, Wichita, KS
   - Expected Graduation: May,2025
+- **Bachelor of Technology in Aeronautical Engineering**
+  - MLR Institute ofTechnology, Hyderabad, TS, India
+  - Graduated: 2019
 
 ### 🌐 Connect
 
@@ -29,7 +29,7 @@ I am a passionate Aerospace Engineering student at Wichita State University with
 
 ### 📝 Additional Information
 
-I am actively seeking opportunities to further develop my skills and contribute to innovative mechhanical and aerospace engineering projects. Whether it's designing the next generation of aircraft or flying taxis, I am committed to leveraging my expertise to tackle the challenges of tomorrow.
+I am actively seeking opportunities to further develop my skills and contribute to innovative mechanical and aerospace engineering projects. Whether it's designing the next generation of aircraft or flying taxis, I am committed to leveraging my expertise to tackle the challenges of tomorrow.
 
 
 <!---
