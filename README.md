@@ -7,7 +7,7 @@ I am a passionate Aerospace Engineering student at Wichita State University with
 
 ### 🛠️ Skills
 
-- **CAD Design:** CAD Design: Proficient in CATIA V5, Solidworks, learning AutoCAD.
+- **CAD Design:** Proficient in CATIA V5, Solidworks, learning AutoCAD.
 - **Finite Element Analysis (FEA):** Experienced in performing structural analysis using FEA softwares like Ansys, PATRAN/NASTRAN, Solidworks.
 - **Computational Fluid Dynamics(CFD):** Experienced in performing fluid flow analysis using Ansys
 - **Programming:** Proficient in MATLAB for numerical analysis and simulations. Python for small automations and coursework
