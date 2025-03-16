@@ -3,12 +3,12 @@
 
 ### 🚀 About Me
 
-I am a passionate Aerospace Engineering student at Wichita State University with a keen interest in CAD design and structural analysis. 
+Aerospace Engineering student at Wichita State University with a keen interest in CAD design and structural analysis. 
 
 ### 🛠️ Skills
 
-- **CAD Design:** Proficient in CATIA V5, Solidworks, learning AutoCAD.
-- **Finite Element Analysis (FEA):** Experienced in performing structural analysis using FEA softwares like Ansys, PATRAN/NASTRAN, Solidworks.
+- **CAD Design:** Proficient in CATIA V5, Solidworks.
+- **Finite Element Analysis (FEA):** Experienced in performing structural analysis using FEA softwares like Hyperworks, ANSA, Ansys, PATRAN/NASTRAN, Solidworks.
 - **Computational Fluid Dynamics(CFD):** Experienced in performing fluid flow analysis using Ansys
 - **Programming:** Proficient in MATLAB for numerical analysis and simulations. Python for small automations and coursework
 
@@ -16,7 +16,7 @@ I am a passionate Aerospace Engineering student at Wichita State University with
 
 - **Master of Science in Aerospace Engineering**
   - Wichita State University, Wichita, KS
-  - Expected Graduation: May,2025
+  - Expected Graduation: December,2025
 - **Bachelor of Technology in Aeronautical Engineering**
   - MLR Institute ofTechnology, Hyderabad, TS, India
   - Graduated: 2019
