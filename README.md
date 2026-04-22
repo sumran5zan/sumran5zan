@@ -16,7 +16,7 @@ Aerospace Engineering student at Wichita State University with a keen interest i
 
 - **Master of Science in Aerospace Engineering**
   - Wichita State University, Wichita, KS
-  - Expected Graduation: May,2026
+  - Expected Graduation: May 2026
 - **Bachelor of Technology in Aeronautical Engineering**
   - MLR Institute ofTechnology, Hyderabad, TS, India
   - Graduated: 2019
